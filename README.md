@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irsha-farwin25&label=Profile%20views&color=0e75b6&style=flat" alt="irsha-farwin25" /> </p>
 
-- 🔭 I’m currently working on **Comply361**
-
 - 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://irsha-farwin25.github.io/irsha-deploy/](https://irsha-farwin25.github.io/irsha-deploy/)
 
 - 📝 I regularly write articles on [https://medium.com/@rsahanab96](https://medium.com/@rsahanab96)
 
-- 💬 Ask me about **React js ,Javascript ,Flutter , Laravel**
+- 💬 Ask me about **React js ,Javascript **
 
 - 📫 How to reach me **rsahanab96@gmail.com**
 
