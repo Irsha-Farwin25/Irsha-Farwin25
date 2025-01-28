@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rsahanab96](https://medium.com/@rsahanab96)
 
-- 💬 Ask me about **React js ,Javascript **
+- 💬 Ask me about **React js, Javascript **
 
 - 📫 How to reach me **rsahanab96@gmail.com**
 
